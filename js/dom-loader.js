@@ -1,2 +1,2 @@
-var button = document.querySelector("#toggle-button")
-var graph = document.querySelector("#toggled-graph")
+export var button = document.querySelector("#toggle-button")
+export var graph = document.querySelector("#toggled-graph")
